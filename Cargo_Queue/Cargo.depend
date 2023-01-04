@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1672593860 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo\main.cpp
+	<iostream>
+	"queue.h"
+
+1672629611 d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo\queue.h
+	<iostream>
+
+1672593103 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo\queue.cpp
+	<iostream>
+	"queue.h"
+
+1672845702 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\tubes_queue\cargo_queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1672629611 d:\a. perkuliahan\semester 3\1. struktur data\tubes\tubes_queue\cargo_queue\queue.h
+	<iostream>
+
+1672845631 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\tubes_queue\cargo_queue\queue.cpp
+	<iostream>
+	"queue.h"
+
+1672845702 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo_queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1672629611 d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo_queue\queue.h
+	<iostream>
+
+1672845746 source:d:\a. perkuliahan\semester 3\1. struktur data\tubes\cargo_queue\queue.cpp
+	<iostream>
+	"queue.h"
+
