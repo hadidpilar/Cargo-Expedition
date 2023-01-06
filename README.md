@@ -13,4 +13,9 @@ Hadid ingin :*
 4. Mencari data cargo sesuai dengan nomor antrian. untuk meninfokan kepada konsumen.
 5. Memilah nama barang sesuai jenisnya.
 
+## Soft skill
+- C++
+- Analys
+- Team work
+
 
